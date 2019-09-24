@@ -5,7 +5,7 @@
 			<text>Demo question d'appariement</text>
 		</name>
 		<questiontext format="html">
-			<text>De quelle couleur était le cheval blanc d'Henry IV ?</text>
+			<text>De quelle couleur était le cheval vert d'Henry IV ?</text>
 		</questiontext>
 		<penalty>1</penalty>
 		<defaultgrade>1</defaultgrade>
