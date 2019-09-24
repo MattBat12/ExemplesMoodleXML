@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<question type="truefalse">
+	<name>
+		<text>Demo question vrai ou faux</text>
+	</name>
+	<questiontext format="html">
+		<text>Vive les BDs ?</text>
+	</questiontext>
+	<answer fraction="100">
+		<text>Vrai</text>
+		<feedback>
+			<text>Bravo !</text>
+		</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Faux</text>
+		<feedback>
+			<text>Ooops!</text>
+		</feedback>
+	</answer>
+</question>
