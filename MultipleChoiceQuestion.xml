@@ -15,7 +15,7 @@
 		</feedback>
 	</answer>
 	<answer fraction="0">
-		<text>Une mauvaise réponse</text>
+		<text>Une mauvais réponse</text>
 		<feedback>
 			<text>Ooops!</text>
 		</feedback>
@@ -23,7 +23,7 @@
 	<answer fraction="0">
 		<text>Une autre mauvaise réponse</text>
 		<feedback>
-			<text>Ooops!</text>
+			<text>AHhhhhhhhhhhhhhhhhhhhh!!!!!!!!!!!!!!</text>
 		</feedback>
 	</answer>
 	<shuffleanswers>1</shuffleanswers>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <question type="truefalse">
 	<name>
-		<text>Quel est le juste prix ?</text>
+		<text>Quel est le juste twix ?</text>
 	</name>
 <question type="numerical">
  <answer fraction="100">
